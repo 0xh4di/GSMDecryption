@@ -42,4 +42,4 @@ Recording data requires a programmable radio receiver such as the [USRP](https:/
 * Kraken is available through: git clone https://github.com/0xh4di/kraken
 Kraken uses rainbow tables that are available through [files](https://github.com/0xh4di/GSMDecryption/tree/master/files).
 
-*Please use these tools carefully and never intentionally record other people’s conversations. 
+Please use these tools carefully and never intentionally record other people’s conversations. 
